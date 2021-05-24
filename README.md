@@ -1,0 +1,1 @@
+# EQL (Emoji Query Language)
