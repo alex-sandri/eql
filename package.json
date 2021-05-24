@@ -9,6 +9,13 @@
   },
   "author": "Alex Sandri <me@alexsandri.com> (https://alexsandri.com)",
   "license": "MIT",
+  "files": [
+    "build",
+    "LICENSE",
+    "package-lock.json",
+    "package.json",
+    "README.md"
+  ],
   "devDependencies": {
     "ts-node-dev": "^1.1.6",
     "typescript": "^3.9.7"
