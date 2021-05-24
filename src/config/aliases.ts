@@ -25,14 +25,19 @@ export default [
     */
 
     {
+        eql: "📋",
+        sql: "from",
+    },
+
+    /*
+        MISC
+    */
+
+    {
         eql: "*️⃣",
         sql: "*",
         __: {
             escape: true,
         },
-    },
-    {
-        eql: "📋",
-        sql: "from",
     },
 ];
