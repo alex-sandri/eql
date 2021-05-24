@@ -2,7 +2,7 @@
   "name": "@alex-sandri/eql",
   "version": "1.0.0",
   "description": "SQL, but with emojis",
-  "main": "lib/index.js",
+  "main": "build/index.js",
   "scripts": {
     "build": "tsc",
     "postversion": "npm run build && git push origin master --follow-tags && npm publish"
