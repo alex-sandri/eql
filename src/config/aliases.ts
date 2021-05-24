@@ -52,4 +52,12 @@ export default [
             escape: true,
         },
     },
+    {
+        eql: "↔️",
+        sql: "and",
+    },
+    {
+        eql: "🔀",
+        sql: "or",
+    }
 ];

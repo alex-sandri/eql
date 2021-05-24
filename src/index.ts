@@ -17,5 +17,3 @@ export const eql = (query: string): string =>
 
     return query;
 }
-
-console.log(eql("🔍 *️⃣ 📋 example_table"))
