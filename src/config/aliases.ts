@@ -9,7 +9,7 @@ export default [
     },
     {
         eql: "➕",
-        sql: "insert",
+        sql: "insert into",
     },
     {
         eql: "✏️",
@@ -27,6 +27,18 @@ export default [
     {
         eql: "📋",
         sql: "from",
+    },
+    {
+        eql: "🛃",
+        sql: "where",
+    },
+    {
+        eql: "✍️",
+        sql: "set",
+    },
+    {
+        eql: "💾",
+        sql: "values",
     },
 
     /*
