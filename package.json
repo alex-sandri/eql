@@ -1,11 +1,11 @@
 {
   "name": "@alex-sandri/eql",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "SQL, but with emojis",
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
-    "postversion": "git push origin master --follow-tags && npm publish"
+    "postversion": "npm run build && git push origin master --follow-tags && npm publish"
   },
   "author": "Alex Sandri <me@alexsandri.com> (https://alexsandri.com)",
   "license": "MIT",
