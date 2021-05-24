@@ -1,6 +1,6 @@
 {
   "name": "@alex-sandri/eql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SQL, but with emojis",
   "main": "build/index.js",
   "scripts": {
